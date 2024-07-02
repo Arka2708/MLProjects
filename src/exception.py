@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 #custom exception handling
 def error_message_detail(error,error_detail:sys):
